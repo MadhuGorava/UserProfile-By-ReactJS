@@ -4,21 +4,25 @@ import './App.css'
 
 const userDetailsList = [
   {
+    uniqueNo: 1,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
     name: 'Madhu',
     role: 'SoftwareDeveloper',
   },
   {
+    uniqueNo: 2,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
     name: 'GoravaMadhu',
     role: 'SoftwareEngineer',
   },
   {
+    uniqueNo: 3,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
     name: 'MadhuJack',
     role: 'TechnicalSupport',
   },
   {
+    uniqueNo: 4,
     imageUrl: 'https://assets.ccbp.in/frontend/react-js/esther-howard-img.png',
     name: 'MadhuSparrow',
     role: 'JavaDeveloper',
